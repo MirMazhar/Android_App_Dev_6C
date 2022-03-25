@@ -1,4 +1,4 @@
-package com.example.android_app_dev_lec_03;
+package com.example.video_play;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.android_app_dev_lec_03", appContext.getPackageName());
+        assertEquals("com.example.video_play", appContext.getPackageName());
     }
 }

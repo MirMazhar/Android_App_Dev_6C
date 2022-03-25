@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "android_app_dev_lec_03"
+rootProject.name = "video_play"
 include ':app'

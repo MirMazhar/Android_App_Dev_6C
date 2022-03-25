@@ -1,4 +1,4 @@
-package com.example.android_app_dev_lec_03;
+package com.example.video_play;
 
 import org.junit.Test;
 
